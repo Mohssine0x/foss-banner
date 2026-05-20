@@ -43,12 +43,12 @@ Press `Ctrl+C` to exit.
 
 ## ©️ Copyright
 
-Copyright © 2026 detectiveRight <https://github.com/detectiveRight/>
+Copyright © 2026 MultiRight <https://github.com/MultiRight/>
 
 This project is open source under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ## 👤 Author
-**detectiveRight** ([@detectiveRight](https://github.com/detectiveRight) • [@bilalElGohary](https://github.com/bilalElGohary))
+**detectiveRight** ([@MultiRight](https://github.com/MultiRight) • [@bilalElGohary](https://github.com/bilalElGohary))
 
 *Forked and improved from another project. Special thanks to cat mimi 🐱*
 
