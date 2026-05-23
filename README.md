@@ -18,7 +18,7 @@ A lightweight terminal utility that cycles through animated ASCII art banners ce
 - Cycles through iconic FOSS project names in large ASCII art
 - Each banner displays in a random color
 - Lightweight — pure Python, no dependencies
-- Runs in any Unix/Linux terminal
+- Runs in any Unix/Linux terminal and on windows 10/11
 - Clears the screen between frames for a smooth animation effect
 
 ## 🖼️ Banners Included
@@ -47,10 +47,13 @@ A lightweight terminal utility that cycles through animated ASCII art banners ce
 
 - Python 3.x
 - A terminal that supports ANSI escape codes (most modern terminals do)
+- Git
+
 
 ### Installation
 
 ```bash
+pip install colorama --break-system-packages
 git clone https://github.com/arwanddlearmw/foss-banner-updated-.git
 cd foss-banner
 ```
@@ -66,17 +69,7 @@ python foss-banner.py
 > python3 foss-banner.py
 > ```
 
-Press `Ctrl+C` to stop.
 
----
-
-## 📄 License
-
-This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**.
-
----
-
-## 👤 Author
 
 **MultiRight**
 
