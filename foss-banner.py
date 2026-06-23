@@ -1,5 +1,10 @@
 # mimi is a nice cat 🐱
 
+# github : https://github.com/MultiRight
+
+# Copyright © 2026 MultiRight <https://github.com/MultiRight>
+
+
 # Invoking libraries via import
 
 import random
