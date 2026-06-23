@@ -4,7 +4,6 @@
 
 # Copyright © 2026 MultiRight <https://github.com/MultiRight>
 
-
 # Invoking libraries via import
 
 import random
