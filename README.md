@@ -54,7 +54,7 @@ And more — 32 banners are currently included.
 ### Installation
 
 ```bash
-git clone https://github.com/Mohssine0x/foss-banner.git
+git clone https://github.com/MohssineX/foss-banner.git
 cd foss-banner
 ```
 
@@ -78,7 +78,7 @@ Press `Ctrl+C` to stop the program.
 If you're on Linux and want to run it without downloading:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/Mohssine0x/foss-banner/main/foss-banner.py | python3
+curl -sSL https://raw.githubusercontent.com/MohssineX/foss-banner/main/foss-banner.py | python3
 ```
 
 ---
