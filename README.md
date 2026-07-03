@@ -1,81 +1,75 @@
 # foss-banner
 
-A lightweight terminal utility that cycles through animated ASCII art banners celebrating the world of Free and Open Source Software (FOSS).
+A lightweight terminal utility that displays animated ASCII art banners celebrating the world of Free and Open Source Software (FOSS).
 
+```text
+ ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗
+ ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝
+ ██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝
+ ██║     ██║██║╚██╗██║██║   ██║ ██╔██╗
+ ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗
+ ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
- ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗    
- ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝    
- ██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝     
- ██║     ██║██║╚██╗██║██║   ██║ ██╔██╗     
- ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗    
- ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝    
-```
-
----
 
 ## Features
 
-- Cycles through iconic FOSS project names rendered in large ASCII art
-- Each banner is displayed in a randomly selected color
-- Lightweight — pure Python, no external dependencies
-- Compatible with any Unix/Linux terminal
-- Clears the screen between frames for a smooth animation effect
+* Animated ASCII art banners
+* Random color selection for each banner
+* Pure Python implementation (no external dependencies)
+* Works in most Unix/Linux terminals
+* Automatic screen clearing between frames
+* Includes 32 FOSS-related banners
 
----
+## Included Banners
 
-## Banners Included
+Some of the included banners:
 
-| Banner   |
-|----------|
-| LINUX    |
-| C        |
-| PYTHON   |
-| BASH     |
-| TERMINAL |
-| GNU      |
-| FIREFOX  |
-| VIM      |
-| GIT      |
-| DEBIAN   |
-| RUST     |
-| ARCH     |
+* LINUX
+* C
+* PYTHON
+* BASH
+* TERMINAL
+* GNU
+* FIREFOX
+* VIM
+* GIT
+* DEBIAN
+* RUST
+* ARCH
 
-And more — 32 banners are currently included.
+...and many more.
 
----
+## Requirements
 
-## Getting Started
+* Python 3.x
+* Terminal with ANSI escape sequence support
 
-### Requirements
-
-- Python 3.x
-- A terminal with ANSI escape code support (most modern terminals qualify)
-
-### Installation
+## Installation
 
 ```bash
 git clone https://github.com/MohssineX/foss-banner.git
 cd foss-banner
 ```
 
-### Usage
+## Usage
 
 ```bash
 python foss-banner.py
 ```
 
-> **Tip:** If `python` does not work, try:
-> ```bash
-> python3 foss-banner.py
-> ```
+If your system uses `python3`:
 
-Press `Ctrl+C` to stop the program.
+```bash
+python3 foss-banner.py
+```
 
----
+Stop the program at any time with:
 
-## Quick Start
+```text
+Ctrl + C
+```
 
-If you're on Linux and want to run it without downloading:
+## Quick Run (Without Cloning)
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/MohssineX/foss-banner/main/foss-banner.py | python3
@@ -85,7 +79,7 @@ curl -sSL https://raw.githubusercontent.com/MohssineX/foss-banner/main/foss-bann
 
 ## License
 
-This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)** 
+This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**
 
 ---
 
@@ -97,4 +91,6 @@ This project is licensed under the **[GNU General Public License v3.0](https://w
 ---
 
 ## 🐱 Special Thanks
+
 A special thanks to **mimi** — the legendary, the great, the gentle cat.
+
