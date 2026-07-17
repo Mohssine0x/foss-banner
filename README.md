@@ -5,7 +5,7 @@
 
 A lightweight terminal utility that displays the names and logos of various Free and Open Source Software (FOSS) projects as animated ASCII art banners.
 
-![bannerLinux](bannerLinux.png)
+![banner](banner.png)
 
 ## Features
 
