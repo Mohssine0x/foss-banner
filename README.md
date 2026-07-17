@@ -5,27 +5,16 @@
 
 A lightweight terminal utility that displays the names and logos of various Free and Open Source Software (FOSS) projects as animated ASCII art banners.
 
-```text
- ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗
- ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝
- ██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝
- ██║     ██║██║╚██╗██║██║   ██║ ██╔██╗
- ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗
- ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-```
+![bannerLinux](bannerLinux.png)
 
 ## Features
 
 * Animated ASCII art banners
 * Random color selection for each banner
 * Pure Python implementation (no external dependencies)
-* Works in most Unix/Linux terminals
-* Automatic screen clearing between frames
 * Includes 32 FOSS-related banners
 
 ## Included Banners
-
-Some of the included banners:
 
 * LINUX
 * C
@@ -40,7 +29,7 @@ Some of the included banners:
 * RUST
 * ARCH
 
-...and many more.
+...and more.
 
 ## Supported Platforms
 
@@ -106,5 +95,4 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ---
 
-## If you like it, give it a star :)
-
+### If you like it, give it a star :)
