@@ -53,6 +53,8 @@ cd foss-banner
 
 ## Usage
 
+Run the program :
+
 ```bash
 python foss-banner.py
 ```
